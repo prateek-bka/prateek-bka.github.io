@@ -85,3 +85,5 @@ $(document).ready(function () {
     },
   });
 });
+
+GitHubCalendar(".calendar", "prateek-bka", { responsive: true });
