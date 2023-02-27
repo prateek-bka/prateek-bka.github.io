@@ -190,7 +190,8 @@ section .title::after {
 /* home section styling */
 .home {
   display: flex;
-  background: url("./images/background_img.gif") no-repeat center;
+  background: url("https://i.ibb.co/tKVXqMd/background-img.gif") no-repeat
+    center;
   height: 100vh;
   color: #fff;
   min-height: 500px;
